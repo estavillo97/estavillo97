@@ -1,11 +1,15 @@
 ### Hi there 👋
-Since I was a kid, I was curious about numbers, writing and finance, but it was until I discovered the stock market that I decided to learn to invest and pursue a bachelor's in finance engineering with the goal of learning the necessary tools to predict it.  While in university, I discovered the world of programming and how you can combine the writing with the world of numbers to do so and then got a specialization of machine learning to achieve my goals.  
+
+Passionate about data, predictive models, and finance. My expertise lies in Python, Excel, SQL, and other essential tools, to extract actionable insights from complex datasets and drive data-informed decision-making. 
+
+
+Since I was a kid, I was curious about numbers, writing, and finance, but it wasn't until I discovered the stock market that I decided to learn to invest and pursue a bachelor's in finance engineering.  While in university, I discovered the world of programming and how you can combine writing with the world of numbers to do so, and then got a specialization in machine learning to achieve my goals.  
 Some projects I have worked on: 
 
 
-Associated with the CEO of Quant Dynamics to develop algorithmic trading strategies to predict the stock market and gave some courses and presentations in universities like UdeG. 
+Associated with the CEO of Quant Dynamics to develop algorithmic trading strategies to predict the stock market and gave some courses and presentations at universities like UdeG. 
 
-first position in Latin America in a quant finance competition hosted by World Quant, where we develop mathematical predictive models for the stock market. After the competition I got a work there.  
+first position in Latin America in a quant finance competition hosted by World Quant, where we develop mathematical predictive models for the stock market. After the competition, I got a work there.  
 
 Teamed up with classmates to make an artificial intelligence model to predict default on lent credits for a startup named Digitt. The company liked the model and hired me to work in the new Data Science division analyzing data to improve credit lending decisions. 
 
