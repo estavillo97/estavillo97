@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Estavillo, a passionate about data, predictive models, and finance individual. My expertise lies in Python, Excel, SQL, and other essential tools, to extract actionable insights from complex datasets and drive data-informed decision-making. 
+I'm Estavillo, a passionate about data, predictive models, and finance individual. My expertise lies in Python, Excel, SQL, cloud, and other essential tools, to extract actionable insights from complex datasets and drive data-informed decision-making. 
 
 
 Since I was a kid, I was curious about numbers, writing, and finance, but it wasn't until I discovered the stock market that I decided to learn to invest and pursue a bachelor's in finance engineering.  While in university, I discovered the world of programming and how to combine writing with the world of numbers to do so, and then I got a specialization in machine learning to achieve my goals.  
