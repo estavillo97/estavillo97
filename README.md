@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Estavillo, a passionate about data, predictive models, and finance individual. My expertise lies in Python, Excel, SQL, cloud, and other essential tools, to extract actionable insights from complex datasets and drive data-informed decision-making. 
+I'm Estavillo, a passionate about data, predictive models, and finance individual who loves to immerse in complex problems and extract insights to form data-driven decisions. My expertise lies in Python, Excel, SQL, cloud, and other essential tools, to extract actionable insights from complex datasets and drive data-informed decision-making. 
 
 
 Since I was a kid, I was curious about numbers, writing, and finance, but it wasn't until I discovered the stock market that I decided to learn to invest and pursue a bachelor's in finance engineering.  While in university, I discovered the world of programming and how to combine writing with the world of numbers to do so, and then I got a specialization in machine learning to achieve my goals.  
@@ -13,9 +13,9 @@ first position in Latin America in a quant finance competition hosted by World Q
 
 I teamed up with classmates to make an artificial intelligence model to predict the default on lent credits for a startup named Digitt. The company liked the model and hired me to work in the new Data Science division analyzing data to improve credit lending decisions. 
 
-Professional practices in algorithmic trading developing mathematical predictive models for the stock market. 
+Professional practices in algorithmic trading, developing mathematical predictive models for the stock market. 
 
-Making Sense LLC contacted me to join his new algorithmic trading project where I have performed as an algorithmic trading developer for +2 years working mostly with a hedge fund partner creating strategies, improving the portfolio, and researching better ways to take decisions based on data.
+Making Sense LLC contacted me to join his new algorithmic trading project where I have performed as an algorithmic trading developer for +2 years working mostly with a hedge fund partner creating strategies, improving the portfolio, and researching better ways to make decisions based on data.
 
 
 *Passions*
